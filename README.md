@@ -2,9 +2,9 @@
 
 ## Description
 
-I created a Sudoku solver for my project. I used Python and some ideas from Artificial Intelligence like Sudoku Solver using Constraint Satisfaction Problems. The Sudoku Solver takes a Sudoku puzzle that's not complete and finds a solution that follows all the rules of Sudoku Solver.
+I created a Sudoku Solver for my project. I used python and AI. AI is been used for adding constraints in the code. This code take input from the user and give the solution to him.
 
-The Sudoku solver solve it by a system based on rules. Each cell in the Sudoku Solver grid is like a variable and the numbers 1 to 9 are the values for these variables. The rules make sure that each row, column and small grid has each number once. This shows how smart systems can solve problems that have a lot of rules by using these rules of guessing.
+The Sudoku Solver, solve it by a system based on rules. Each cell in the Sudoku Solver grid is like a variable and taker input from 1 to 9 for the variables. The rules make sure that each row, column and small grid has each number once. This shows how smart systems can solve problems that have a lot of rules by using these rules of guessing.
 
 ## Objective
 
@@ -22,7 +22,7 @@ Once all the rules were set the Sudoku Solver solver tried to find a solution th
 
 The Sudoku Solver program has three parts. The first part asks the user to enter the Sudoku Solver puzzle row by row. It checks to make sure each row has nine numbers and the numbers are between 0 and 9.
 
-The second part shows the Sudoku Solver board in a way that makes it easy to see the puzzle and the solution.
+The second part shows that the Sudoku Solver creats a grid for the user.
 
 The third part is the Sudoku Solver function. It defines the problem. Uses the constraint satisfaction method to find a solution for Sudoku Solver.
 
@@ -38,7 +38,7 @@ The Sudoku Solver program can solve Sudoku Solver puzzles using constraint satis
 
 ## Learning Outcome
 
-I learned a lot from this Sudoku Solver project. I understood how Artificial Intelligence techniques, like constraint satisfaction can be used to solve problems with a lot of rules. I also saw how using rules can make solving problems faster than trying all solutions. This Sudoku Solver project helped me connect the ideas from my AI and ML class to a project.
+I learned a lot from this Sudoku Solver project. I understood how AI techniques, like constraint satisfaction can be used to solve problems with a lot of rules. I also saw how using rules can make solving problems faster than trying all solutions.
 
 ## Limitations
 
