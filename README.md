@@ -44,6 +44,3 @@ I learned a lot from this Sudoku Solver project. I understood how Artificial Int
 
 The Sudoku Solver program which I had made only works for Sudoku Solver puzzles. It assumes the user enters numbers. It does check to make sure the numbers are correct. It can't go for column wise input. And it too can't seperate the numbers on its own, you have to give space between the numbers 
 
-## This Sudoku Solver project is an example of Artificial Intelligence. 
-
-By using constraint satisfaction I could solve Sudoku Solver puzzles without trying all solutions. This shows the importance of defining problems and using rules, in Artificial Intelligence systems. The Sudoku Solver is an example of how Artificial Intelligence can be used to solve problems, like Sudoku Solver.
